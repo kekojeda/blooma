@@ -10,32 +10,32 @@ const Footer = () => {
   return (
     
     <>
-    <div className="container">
+    <div className="container bg-dark">
       <footer className="py-5">
         <div className="row">
           <div className="col-4">
-            <h5>Seguinos</h5>
+            <h5><Link to={'/faqs'} className="nav-link text-white">PREGUNTAS FRECUENTES</Link></h5>
             <ul className="nav flex-column align-items-center">
               <li className="nav-item mb-2"><Link href="#" className="nav-link p-0 text-muted"><FaFacebookSquare/></Link></li>
               <li className="nav-item mb-2"><Link href="#" className="nav-link p-0 text-muted"><FiInstagram/></Link></li>                
             </ul>
           </div>
           <div className="col-4">
-            <h5>Contactanos</h5>
+            <h5 className='text-white'>Contactanos</h5>
             <ul className="nav flex-column">
               <li className="nav-item mb-2"><Link href="#" className="nav-link p-0 text-muted"><FaWhatsapp/> +54 9 1123886544</Link></li>
             </ul>
           </div>
           <div className="col-4">
-            <h5>Preguntas frecuentes</h5>            
+            <h5 className='text-white'>Preguntas frecuentes</h5>            
           </div>
           <div className="col-4">
-            <h5>Te esperamos...</h5>
+            <h5 className='text-white'>Te esperamos...</h5>
             <ul className="nav flex-column">
               <li className="nav-item mb-2"><MdLocationOn/> Dirección: Islandia 26. Entre Av. Gral Hornos y Darwin</li>
               <li className="nav-item mb-2"><BsClock/> Horarios:</li>
-              <li className="nav-item mb-2"><BsClock/> Martes Link viernes de 14 Link 20 hs</li>
-              <li className="nav-item mb-2"><BsClock/> Sábados de 10 Link 16 hs</li>
+              <li className="nav-item mb-2"><BsClock/> Martes a viernes de 14 a 20 hs</li>
+              <li className="nav-item mb-2"><BsClock/> Sábados de 10 a 16 hs</li>
             </ul>
           </div>
         </div>
