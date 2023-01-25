@@ -4,13 +4,16 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 function ServiceDetail({ description, id, image, message, title }) {
+
+  const loadImage = `img/services/${image}`
+
   return (
     <>
       {
         <Card>
           <Row>
             <Col sm={4}>
-              <Card.Img variant="top" width={100 + "%"} src={image} />
+              <Card.Img variant="top" width={20 + "%"} src={loadImage} />
             </Col>
             <Col sm={8}>
               <Card.Body>

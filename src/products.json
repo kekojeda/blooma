@@ -1,27 +1,108 @@
 [
     {
-        "id": 1,
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price": 109.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 3.9,
-            "count": 120
+      "id": 1,
+      "title": "Por rutina",
+      "image": "imagen_de_la_categoria_porlas.jpg",
+      "services": [
+        {
+          "id": 1,
+          "title": "circuito reductor detox",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "img/services/circuito reductor.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 2,
+          "title": "circuito modelador",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "img/services/circuito modelador - corporal - servicio.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 3,
+          "title": "circuito tonificador",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 4,
+          "title": "circuito anti-celulitis",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 5,
+          "title": "chau arañitas",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 6,
+          "title": "chau piernas cansadas",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 7,
+          "title": "chau flacidez",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
         }
+      ]
     },
     {
-        "id": 2,
-        "title": "Mens Casual Premium Slim Fit T-Shirts ",
-        "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-        "rating": {
-            "rate": 4.1,
-            "count": 259
+      "id": 2,
+      "title": "Depilación definitiva",
+      "image": "imagen_de_la_categoria_porlas.jpg",
+      "services": [
+        {
+          "id": 1,
+          "title": "Depilación láser",
+          "description": "Recomendada por dermatólogos para combatir afecciones cutáneas como foliculitis e hirsutismo. Entre los principales beneficios de la depilación láser, éste es el más determinante para la salud de la piel ya que ayuda a eliminar afecciones molestas e incómodas, además de eliminar el vello definitivamente.",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
         }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Faciales",
+      "image": "imagen_de_la_categoria_porlas.jpg",
+      "services": [
+        {
+          "id": 1,
+          "title": "limpieza profunda",
+          "description": "Esta técnica específica que se realiza en centros de estética está indicada para mejorar la salud y apariencia tisular. Elimina los puntos negros y células muertas, logrando una piel sana y permeable para incorporar los principios activos que tu biotipo de piel necesita.",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 2,
+          "title": "dermaplaning",
+          "description": "Es un excelente método para exfoliar la piel y promover la generación de nuevas células. Disminuye la apariencia de las arrugas finas y cicatrices de acné. El resultado será una piel extremadamente suave y luminosa.",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 3,
+          "title": "nutrición anti-age",
+          "description": "Esta práctica está centrada en devolver la juventud al rostro y cuerpo, disimulando el proceso de envejecimiento a través de la reducción de manchas y arrugas. Esto mejora la calidad de la piel aportando luminosidad y elasticidad, y en algunos casos, elimina el vello.",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        },
+        {
+          "id": 4,
+          "title": "lifting facial sin cirugía",
+          "description": "Esta práctica está centrada en devolver la juventud al rostro y cuerpo, disimulando el proceso de envejecimiento a través de la reducción de manchas y arrugas. Esto mejora la calidad de la piel aportando luminosidad y elasticidad, y en algunos casos, elimina el vello.",
+          "image": "imagen.jpg",
+          "message": "Mensaje que se envia por WhatsApp"
+        }
+      ]
     }
- 
-]
+  ]
+  
