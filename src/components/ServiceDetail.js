@@ -4,8 +4,8 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 function ServiceDetail({ description, id, image, message, title }) {
-
-  const loadImage = `img/services/${image}`
+  const loadImage = `img/services/${image}`;
+  const linkWhats = `https://api.whatsapp.com/send?phone=541123886544&text=${message}${title}`;
 
   return (
     <>
@@ -19,7 +19,9 @@ function ServiceDetail({ description, id, image, message, title }) {
               <Card.Body>
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>{description}</Card.Text>
-                <Button variant="primary">Whatsapp</Button>
+                <a href={linkWhats} target="_blank">
+                  <Button variant="primary">Whatsapp</Button>
+                </a>
               </Card.Body>
             </Col>
           </Row>
