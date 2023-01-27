@@ -1,3 +1,28 @@
 * {
   background-image: "";
 }/*# sourceMappingURL=App.css.map */
+
+@font-face {
+  font-family: ESRebondGrotesqueTRIAL;
+  src: local("ESRebondGrotesqueTRIAL"),
+    url("./fonts/ESRebondGrotesqueTRIAL-ExtralightItalic.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Hairline.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-HairlineItalic.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Italic.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Light.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-LightItalic.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Medium.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-MediumItalic.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Regular.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Semibold.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-SemiboldItalic.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-Thin.otf") format("opentype"),
+    url("./fonts/ESRebondGrotesqueTRIAL-ThinItalic.otf") format("opentype"),  
+   
+}
+
+#root{
+  font-family: 'ESRebondGrotesqueTRIAL';
+  
+}
+
