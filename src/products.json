@@ -1,108 +1,81 @@
 [
-    {
-      "id": 1,
-      "title": "Por rutina",
-      "image": "imagen_de_la_categoria_porlas.jpg",
-      "services": [
-        {
-          "id": 1,
-          "title": "circuito reductor detox",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "img/services/circuito reductor.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 2,
-          "title": "circuito modelador",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "img/services/circuito modelador - corporal - servicio.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 3,
-          "title": "circuito tonificador",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 4,
-          "title": "circuito anti-celulitis",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 5,
-          "title": "chau arañitas",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 6,
-          "title": "chau piernas cansadas",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 7,
-          "title": "chau flacidez",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at ensum auctor ligula",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Depilación definitiva",
-      "image": "imagen_de_la_categoria_porlas.jpg",
-      "services": [
-        {
-          "id": 1,
-          "title": "Depilación láser",
-          "description": "Recomendada por dermatólogos para combatir afecciones cutáneas como foliculitis e hirsutismo. Entre los principales beneficios de la depilación láser, éste es el más determinante para la salud de la piel ya que ayuda a eliminar afecciones molestas e incómodas, además de eliminar el vello definitivamente.",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Faciales",
-      "image": "imagen_de_la_categoria_porlas.jpg",
-      "services": [
-        {
-          "id": 1,
-          "title": "limpieza profunda",
-          "description": "Esta técnica específica que se realiza en centros de estética está indicada para mejorar la salud y apariencia tisular. Elimina los puntos negros y células muertas, logrando una piel sana y permeable para incorporar los principios activos que tu biotipo de piel necesita.",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 2,
-          "title": "dermaplaning",
-          "description": "Es un excelente método para exfoliar la piel y promover la generación de nuevas células. Disminuye la apariencia de las arrugas finas y cicatrices de acné. El resultado será una piel extremadamente suave y luminosa.",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 3,
-          "title": "nutrición anti-age",
-          "description": "Esta práctica está centrada en devolver la juventud al rostro y cuerpo, disimulando el proceso de envejecimiento a través de la reducción de manchas y arrugas. Esto mejora la calidad de la piel aportando luminosidad y elasticidad, y en algunos casos, elimina el vello.",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        },
-        {
-          "id": 4,
-          "title": "lifting facial sin cirugía",
-          "description": "Esta práctica está centrada en devolver la juventud al rostro y cuerpo, disimulando el proceso de envejecimiento a través de la reducción de manchas y arrugas. Esto mejora la calidad de la piel aportando luminosidad y elasticidad, y en algunos casos, elimina el vello.",
-          "image": "imagen.jpg",
-          "message": "Mensaje que se envia por WhatsApp"
-        }
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Por rutina",
+    "subCategoryTitle": "Básica",
+    "subCategoryDescription": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
+    "products": [
+      {
+        "id": 1,
+        "title": "limpiador facial",
+        "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
+        "image": "img/services/circuito reductor.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 2,
+        "title": "tónico facial",
+        "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento.",
+        "image": "img/services/circuito modelador - corporal - servicio.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 3,
+        "title": "crema hidratante",
+        "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
+        "image": "imagen.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 4,
+        "title": "exfoliante",
+        "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
+        "image": "imagen.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Por rutina",
+    "subCategoryTitle": "completa",
+    "subCategoryDescription": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
+    "products": [
+      {
+        "id": 1,
+        "title": "limpiador facial",
+        "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
+        "image": "img/services/circuito reductor.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 2,
+        "title": "tónico o bruma facial",
+        "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento, manteniendo la hidratación de la piel.",
+        "image": "img/services/circuito modelador - corporal - servicio.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 3,
+        "title": "sérum",
+        "description": "Suaviza y nutre la superficie de la piel, dándole una textura notablemente más uniforme. El sérum facial también la calma para darle un brillo rejuvenecedor.",
+        "image": "imagen.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 4,
+        "title": "crema hidratante",
+        "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
+        "image": "imagen.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      },
+      {
+        "id": 5,
+        "title": "exfoliante",
+        "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
+        "image": "imagen.jpg",
+        "message": "Mensaje que se envia por WhatsApp"
+      }
+    ]
+  }
+]

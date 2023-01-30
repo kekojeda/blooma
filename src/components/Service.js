@@ -5,8 +5,6 @@ import Container from "react-bootstrap/Container";
 
 import { ServiceDetail } from "./ServiceDetail";
 
-import { Link } from "react-router-dom";
-
 function Service({ id, title, services }) {
   return (
     <>
