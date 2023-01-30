@@ -8,5 +8,6 @@
 }
 
 .portada {
-  background-image: url(../../../public/images/DEGRADADO-PORTADA.png);
+  background-image: url(../../../public/img/DEGRADADO-PORTADA.png);
+  height: 10rem;
 }/*# sourceMappingURL=Home.css.map */
