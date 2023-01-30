@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0d5b73b.css",
-    "main.js": "/static/js/main.b7e5b691.js",
-    "index.html": "/index.html",
-    "main.d0d5b73b.css.map": "/static/css/main.d0d5b73b.css.map",
-    "main.b7e5b691.js.map": "/static/js/main.b7e5b691.js.map"
+    "main.css": "/blooma/static/css/main.58313695.css",
+    "main.js": "/blooma/static/js/main.23719db9.js",
+    "static/media/DEGRADADO-HOME-PNG.png": "/blooma/static/media/DEGRADADO-HOME-PNG.28d2baed31ca099a895e.png",
+    "static/media/DEGRADADO-INICIO-NAV-BAR.png": "/blooma/static/media/DEGRADADO-INICIO-NAV-BAR.65116a44fa7edc39ed8d.png",
+    "index.html": "/blooma/index.html",
+    "main.58313695.css.map": "/blooma/static/css/main.58313695.css.map",
+    "main.23719db9.js.map": "/blooma/static/js/main.23719db9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0d5b73b.css",
-    "static/js/main.b7e5b691.js"
+    "static/css/main.58313695.css",
+    "static/js/main.23719db9.js"
   ]
 }
