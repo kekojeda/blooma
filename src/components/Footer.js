@@ -30,7 +30,7 @@ const Footer = () => {
         <div className="d-flex justify-content-center py-4 my-4 border-top flex-column">
         <div className="align-items-center justify-content-center flex-column">
             <h5 className=' d-flex text-white justify-content-center'>¡ESTAMOS EN CONTACTO!</h5>
-            <ul className="nav justify-content-center d-flex align-content-center">
+            <ul className="justify-content-center d-flex align-content-center">
               <li className="m-4 align-items-center d-flex text-white column justify-content-center">
                 <a href="https://www.instagram.com/blooma.lashnails/" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>

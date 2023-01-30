@@ -1,5 +1,10 @@
 .nav:hover {
   margin: 0;
-  padding: 0.5;
+  padding: 0 0.2em;
+  font-weight: bold;
   background-color: #FFEBDB;
+}
+
+.fondo-nav {
+  background-image: url(../../public/img/DEGRADADO-NAVBAR.png);
 }/*# sourceMappingURL=navBar.css.map */
