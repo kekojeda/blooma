@@ -19,7 +19,7 @@ function ServiceDetail({ description, id, image, message, title }) {
               <Card.Body>
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>{description}</Card.Text>
-                <a href={linkWhats} target="_blank">
+                <a href={linkWhats} target="_blank" rel="noopener noreferrer">
                   <Button variant="primary">Whatsapp</Button>
                 </a>
               </Card.Body>
