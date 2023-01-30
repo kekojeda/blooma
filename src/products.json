@@ -2,79 +2,152 @@
   {
     "id": 1,
     "title": "Por rutina",
-    "subCategoryTitle": "Básica",
-    "subCategoryDescription": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
     "products": [
       {
         "id": 1,
-        "title": "limpiador facial",
-        "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
-        "image": "img/services/circuito reductor.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
+        "title": "básica",
+        "description": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
+        "products": [
+          {
+            "id": 1,
+            "title": "limpiador facial",
+            "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 2,
+            "title": "tónico facial",
+            "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 3,
+            "title": "crema hidratante",
+            "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 4,
+            "title": "exfoliante",
+            "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          }
+        ]
       },
       {
         "id": 2,
-        "title": "tónico facial",
-        "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento.",
-        "image": "img/services/circuito modelador - corporal - servicio.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
-      },
-      {
-        "id": 3,
-        "title": "crema hidratante",
-        "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
-        "image": "imagen.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
-      },
-      {
-        "id": 4,
-        "title": "exfoliante",
-        "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
-        "image": "imagen.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
+        "title": "completa",
+        "description": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
+        "products": [
+          {
+            "id": 1,
+            "title": "limpiador facial",
+            "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 2,
+            "title": "tónico o bruma facial",
+            "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento, manteniendo la hidratación de la piel.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 3,
+            "title": "sérum",
+            "description": "Suaviza y nutre la superficie de la piel, dándole una textura notablemente más uniforme. El sérum facial también la calma para darle un brillo rejuvenecedor.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 4,
+            "title": "crema hidratante",
+            "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 5,
+            "title": "exfoliante",
+            "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          }
+        ]
       }
     ]
   },
   {
     "id": 1,
-    "title": "Por rutina",
-    "subCategoryTitle": "completa",
-    "subCategoryDescription": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
+    "title": "Por uso",
     "products": [
       {
         "id": 1,
-        "title": "limpiador facial",
-        "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
-        "image": "img/services/circuito reductor.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
+        "title": "cejas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at enim",
+        "products": [
+          {
+            "id": 1,
+            "title": "liposomas en spray (promoter) exel",
+            "description": "Estimula el crecimiento natural de pestañas y cejas. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          }
+        ]
       },
       {
         "id": 2,
-        "title": "tónico o bruma facial",
-        "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento, manteniendo la hidratación de la piel.",
-        "image": "img/services/circuito modelador - corporal - servicio.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
+        "title": "pestañas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at enim",
+        "products": [
+          {
+            "id": 1,
+            "title": "FORTIFICADOR DE PESTAÑAS (BIOTINA) LACA",
+            "description": "El gel fortalecedor con biotina posee activos naturales que estimulan la fase de crecimiento de pestañas y cejas. Arquea y/o disciplina los pelos de pestañas y cejas otorgándoles una hermosa apariencia y luminosidad.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 2,
+            "title": "LIMPIEZA PARA PESTAÑAS (ESPUMA) MICELAR EXEL",
+            "description": "Suave espuma, ideal para la higiene del área de contorno de ojos, pestañas, extensiones de pestañas y cejas. Puede ser utilizada además como desmaquillante. Otorga suavidad y agradable efecto sensorial.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 3,
+            "title": "liposomas en spray (promoter) exel",
+            "description": "Estimula el crecimiento natural de pestañas y cejas. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas.",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          }
+        ]
       },
       {
         "id": 3,
-        "title": "sérum",
-        "description": "Suaviza y nutre la superficie de la piel, dándole una textura notablemente más uniforme. El sérum facial también la calma para darle un brillo rejuvenecedor.",
-        "image": "imagen.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
-      },
-      {
-        "id": 4,
-        "title": "crema hidratante",
-        "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
-        "image": "imagen.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
-      },
-      {
-        "id": 5,
-        "title": "exfoliante",
-        "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
-        "image": "imagen.jpg",
-        "message": "Mensaje que se envia por WhatsApp"
+        "title": "Faciales",
+        "description": "En el mercado podés encontrar diversos productos para higienizar tu  rostro: en gel, leche de limpieza, crema, agua, entre otros. Lo más importante es que tu cosmetóloga pueda hacer un diagnóstico de tu biotipo de piel. Así, podrás comprar los productos que se adapten a tu piel sin gastar de más, y lucir una piel saludable. Podés consutar por los productos más apropiados para vos por nuestros canales de contacto, y/o de manera presencial.",
+        "products": [
+          {
+            "id": 1,
+            "title": "Productos idraet",
+            "description": "Productos idraet",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          },
+          {
+            "id": 2,
+            "title": "productos laca",
+            "description": "productos laca",
+            "image": "img/services/circuito modelador - corporal - servicio.jpg",
+            "message": "Mensaje que se envia por WhatsApp"
+          }
+        ]
       }
     ]
   }
