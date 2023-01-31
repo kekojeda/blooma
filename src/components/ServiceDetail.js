@@ -17,7 +17,7 @@ function ServiceDetail({ description, id, image, message, title }) {
             </Col>
             <Col sm={8}>
               <Card.Body>
-                <Card.Title>{title}</Card.Title>
+                <Card.Title className="text-uppercase">{title}</Card.Title>
                 <Card.Text>{description}</Card.Text>
                 <a href={linkWhats} target="_blank" rel="noopener noreferrer">
                   <Button variant="primary">Whatsapp</Button>

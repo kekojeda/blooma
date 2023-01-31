@@ -21,8 +21,8 @@ const Footer = () => {
           <div className="align-items-center d-flex justify-content-center flex-column">
             <h5 className="nav-link  d-flex text-white justify-content-center">MEDIOS DE PAGO</h5>
             <ul className="nav align-items-center justify-content-between">
-              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='img/tarjeta.svg'/></li>
-              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='img/MePa.svg'/></li>                
+              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='../public/img/tips/tarjeta.png'/></li>
+              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='img/tips/MePa.png'/></li>                
               <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='img/efectivo.svg'/></li>                
             </ul>
           </div>
@@ -32,7 +32,7 @@ const Footer = () => {
             <h5 className=' d-flex text-white justify-content-center'>¡ESTAMOS EN CONTACTO!</h5>
             <ul className="justify-content-center d-flex align-content-center">
               <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href="https://www.instagram.com/blooma.lashnails/" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
+                <a href="https://www.instagram.com/blooma.lashnails/" target="_blank" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>
                     <FiInstagram size='2.2em'/>
                   </div>
@@ -40,7 +40,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href="wa.me/message/SAGNGMVRAV74A1" className="p-0 flex-column text-white text-decoration-none align-content-center d-flex flex-wrap">
+                <a href="wa.me/message/SAGNGMVRAV74A1" target="_blank" className="p-0 flex-column text-white text-decoration-none align-content-center d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'> 
                     <FaWhatsapp size='2.5em'/>
                   </div>
@@ -48,7 +48,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href = "mailto:blooma.beautystudio@gmail.com" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
+                <a href = "mailto:blooma.beautystudio@gmail.com" target="_blank" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>
                     <TfiEmail size='2.2em'/>
                   </div>

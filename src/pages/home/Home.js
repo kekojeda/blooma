@@ -1,5 +1,5 @@
 import "./Home.sass"
-
+import Card from 'react-bootstrap/Card'
 import React from 'react'
 
 const Home = () => {
@@ -28,11 +28,47 @@ const Home = () => {
         </div>
         <div>
           <div>
-            <h3>De Blooma para vos</h3>
+            <h3>De <span className='fw-bold'>Blooma </span><span className='fw-bold text-decoration-underline'>para vos</span></h3>
             <p>Tips diarios</p>
           </div>
-          <div>
-
+          <div className="d-flex row flex-wrap">
+            <Card style={{ width: '18rem' }}>
+              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Body>
+                <Card.Title>Protegete del sol</Card.Title>
+                <Card.Text>
+                Una de las formas más importantes para cuidar la piel es protegerla del sol es con un protector solar mayor a un factor 50, aplicarlo 15 minutos antes de exponerse al mismo y repetir la aplicación cada 2 horas.
+                Tener en cuenta siempre usar protectores faciales para el rostro y corporales para el cuerpo.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+            <Card style={{ width: '18rem' }}>
+              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Body>
+                <Card.Title>No fumes</Card.Title>
+                <Card.Text>
+                  Fumar le da a tu piel un aspecto avejentado y contribuye a la formación de arrugas, como así la opaca y con el tiempo cambia su color a un tono grisáceo.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+            <Card style={{ width: '18rem' }}>
+              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Body>
+                <Card.Title>Trata a tu piel con suavidad</Card.Title>
+                <Card.Text>
+                  Tu piel es tu lienzo, cuidala usando los productos indicados por tu esteticista y cosmetóloga.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+            <Card style={{ width: '18rem' }}>
+              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Body>
+                <Card.Title>Lleva una dieta saludable</Card.Title>
+                <Card.Text>
+                  Es una forma gratis y sencilla de cuidar tu piel y tu salud.
+                </Card.Text>
+              </Card.Body>
+            </Card>
           </div>
         </div>
       </div>

@@ -6,49 +6,49 @@
     "services": [
       {
         "id": 1,
-        "title": "circuito reductor detox",
+        "title": "Circuito reductor detox",
         "description": "Esta orientado a reducir grasa en áreas localizadas. Las sesiones son semanales, con una duración de una hora aproximadamente. ¡Los resultados son visibles desde la primera sesión!",
         "image": "circuito_reductor.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 2,
-        "title": "circuito modelador",
+        "title": "Circuito modelador",
         "description": "Modela y da forma al área tratada. Las sesiones son semanales, con una duración de una hora aproximadamente. ¡Los resultados son visibles desde la primera sesión!",
         "image": "circuito modelador - corporal - servicio.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 3,
-        "title": "circuito tonificador",
+        "title": "Circuito tonificador",
         "description": "Aumenta el tono muscular, definiendo la apariencia. Las sesiones son semanales, con una duración de una hora aproximadamente. ¡Los resultados son visibles desde la primera sesión!",
         "image": "circuito tonificador - servicio - corporal.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 4,
-        "title": "circuito anti-celulitis",
+        "title": "Circuito anti-celulitis",
         "description": "Esta orientado a eliminar la problemática de la celulitis que tanto nos afecta  a las mujeres. Las sesiones son semanales, con una duración de una hora aproximadamente. ¡Los resultados son visibles desde la primera sesión!",
         "image": "circuito anti celulitis - corporal - servicio.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 5,
-        "title": "chau arañitas",
+        "title": "Chau arañitas",
         "description": "Se realiza un diagnóstico personalizado donde se adecúan los tiempos en base a los resultados que quiera el paciente. Además se combinan distintas aparatologías. Las sesiones son semanales de aproximadamente 1 hora de duración para combatir las arañitas.",
         "image": "chau arañitas - servicio - corporal.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 6,
-        "title": "chau piernas cansadas",
+        "title": "Chau piernas cansadas",
         "description": "Se realiza un diagnóstico personalizado donde se adecúan los tiempos en base a los resultados que quiera el paciente. Además se combinan distintas aparatologías. Las sesiones son semanales de aproximadamente 1 hora de duración para combatir las piernas cansadas.",
         "image": "chau piernas cansadas - servicio - corporal.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 7,
-        "title": "chau flacidez",
+        "title": "Chau flacidez",
         "description": "Se realiza un diagnóstico personalizado donde se adecúan los tiempos en base a los resultados que quiera el paciente. Además se combinan distintas aparatologías. Las sesiones son semanales de aproximadamente 1 hora de duración para combatir la flacidez.",
         "image": "flacidez - servicios - corporal.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
@@ -76,28 +76,28 @@
     "services": [
       {
         "id": 1,
-        "title": "limpieza profunda",
+        "title": "Limpieza profunda",
         "description": "Esta técnica específica que se realiza en centros de estética está indicada para mejorar la salud y apariencia tisular. Elimina los puntos negros y células muertas, logrando una piel sana y permeable para incorporar los principios activos que tu biotipo de piel necesita.",
         "image": "limpieza profunda - servicio - facial.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 2,
-        "title": "dermaplaning",
+        "title": "Dermaplaning",
         "description": "Es un excelente método para exfoliar la piel y promover la generación de nuevas células. Disminuye la apariencia de las arrugas finas y cicatrices de acné. El resultado será una piel extremadamente suave y luminosa.",
         "image": "dermaplaning - facial - servicio.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 3,
-        "title": "nutrición anti-age",
+        "title": "Nutrición anti-age",
         "description": "Esta práctica está centrada en devolver la juventud al rostro y cuerpo, disimulando el proceso de envejecimiento a través de la reducción de manchas y arrugas. Esto mejora la calidad de la piel aportando luminosidad y elasticidad, y en algunos casos, elimina el vello.",
         "image": "anti age - servicio - facial.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 4,
-        "title": "lifting facial sin cirugía",
+        "title": "Lifting facial sin cirugía",
         "description": "Esta práctica está centrada en devolver la juventud al rostro y cuerpo, disimulando el proceso de envejecimiento a través de la reducción de manchas y arrugas. Esto mejora la calidad de la piel aportando luminosidad y elasticidad, y en algunos casos, elimina el vello.",
         "image": "lifting sin cirugía facial - servicio.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
@@ -111,28 +111,28 @@
     "services": [
       {
         "id": 1,
-        "title": "esmaltado semi",
+        "title": "Esmaltado semi",
         "description": "El esmaltado semipermanente es un sistema de duración corta, de 2-3 semanas. El mismo no implica extensión de la uña, es decir, no se puede alargar la uña con este tipo de esmalte.",
         "image": "esmaltado semipermanente - servicios - manos.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 2,
-        "title": "nivelación",
+        "title": "Nivelación",
         "description": "Es una técnica que se practica sobre la uña natural destinada a crear una nivelación y uña perfecta. Tiene algunas diferencias en relación al Kapping (se realiza sin gel de construcción, ni acrílico ni poligel, y no necesita del limado).",
         "image": "nivelación - servicios - manos.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 3,
-        "title": "kapping",
+        "title": "Kapping",
         "description": "El Kapping consiste en aplicar una fina capa de acrílico o gel fortificador sobre la uña que actuará como una barrera protectora. A diferencia de las uñas esculpidas, este baño en gel kapping no alarga la uña natural sino que acompaña el crecimiento de la misma y dura hasta 20 días.",
         "image": "kapping - servicio - manos.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 4,
-        "title": "esculpidas",
+        "title": "Esculpidas",
         "description": "Son extensiones que se construyen a partir de la uña natural con material acrílico, gel o poligel. Estas permiten restaurar y reconstruir uñas, o simplemente lucir uñas más largas. Se puede moldear la forma y longitud para obtener varios estilos. El mantenimiento se realiza cada 15 a 20 días, dependiendo del crecimiento de tu uña.",
         "image": "esculpidas - servicios - manos.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
@@ -153,35 +153,35 @@
     "services": [
       {
         "id": 1,
-        "title": "lash lifting",
+        "title": "Lash lifting",
         "description": "Es una solución rápida que reemplaza el arqueador y el rimmel. Ayuda a que tus pestañas estén más largas y con más volumen. Este tratamiento es ideal para elevar y lograr una curvatura perfecta de pestañas de manera natural logrando una mirada más sensual y hermosa.",
         "image": "lash lifting - servicio - pestañas.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 2,
-        "title": "pestañas pelo por pelo",
+        "title": "Pestañas pelo por pelo",
         "description": "Colocación de pestañas postizas que se realiza sobre cada pestaña, logrando un efecto de ojo maquillado 24 horas. Lleva un mantenimiento mensual ya que el ciclo de una pestaña natural es de aproximadamente 1 mes y es por ello que se renuevan y van cayendo de a poco.",
         "image": "pestañas pelo por pelo.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 3,
-        "title": "laminado de cejas",
+        "title": "Laminado de cejas",
         "description": "Este tratamiento es ideal para el “relleno natural de cejas” como así está indicado para aquellas cejas rebeldes, ya que las hace manejables con el fin de definir la forma deseada y permanente en la ceja.",
         "image": "laminado de cejas servicio - pestañas.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 4,
-        "title": "diseño y perfilado de cejas",
+        "title": "Diseño y perfilado de cejas",
         "description": "Es un servicio personalizado de depilación que consiste en darle forma correcta a las cejas respetando la forma natural de la misma.",
         "image": "diseño y perfilado de cejas - servicio - pestañas.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 5,
-        "title": "relleno de cejas",
+        "title": "Relleno de cejas",
         "description": "Se realiza con un pigmento orgánico llamado Henna que se utiliza para el tintado de cejas. Es un tratamiento natural y no permanente.",
         "image": "relleno de cejas servicio - pestañas.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
@@ -195,14 +195,14 @@
     "services": [
       {
         "id": 1,
-        "title": "belleza de pies",
+        "title": "Belleza de pies",
         "description": "Consiste en la realización de una limpieza, exfoliación, empuje o eliminación de cutícula, limado y esmaltado de uñas semipermanente.",
         "image": "belleza de pies - pies - servicios.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
       },
       {
         "id": 2,
-        "title": "reconstrucción de uñas con hongos",
+        "title": "Reconstrucción de uñas con hongos",
         "description": "La reconstrucción ungueal es una técnica podológica en la que se coloca una uña de gel encima de la uña deformada, de manera que proporciona un aspecto sano mientras debajo de ella se recupera la uña del paciente.",
         "image": "reconstrucción uña - pies - servicios.jpg",
         "message": " Hola, ¿cómo estás? Me gustaría consultar por el servicio "
