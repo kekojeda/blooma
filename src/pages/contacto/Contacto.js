@@ -7,22 +7,22 @@ import React from 'react'
 const Contacto = () => {
   return (
     <div>
-      <div className="d-flex justify-content-center align-content-center px-5 w-75 ms-5 portada">
+      <div className="d-flex justify-content-center align-content-center px-5 w-75 ms-5">
         <p className="titulo ">Estemos en <span className='fw-bold text-decoration-underline'>contacto</span>.</p>
       </div>
       <div>
         <div className="d-flex justify-content-center align-content-center row">
-          <div>
+          <div className="d-flex justify-content-center align-content-center flex-column">
            <FiInstagram size='2.2em'/>
-            <p>INSTAGRAM</p>
+            <p className="d-flex">INSTAGRAM</p>
           </div>
-          <div>
+          <div className="d-flex justify-content-center align-content-center flex-column">
             <FaWhatsapp size='2.5em'/>
-            <p>WHATSAPP</p>
+            <p className="d-flex">WHATSAPP</p>
           </div>
-          <div>
+          <div className="d-flex justify-content-center align-content-center flex-column">
             <BsFacebook size='2.5em'/>         
-            <p>FACEBOOK</p>
+            <p className="d-flex">FACEBOOK</p>
           </div>
         </div>
         <div></div>

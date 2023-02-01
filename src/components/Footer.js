@@ -40,7 +40,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href="wa.me/message/SAGNGMVRAV74A1" target="_blank" className="p-0 flex-column text-white text-decoration-none align-content-center d-flex flex-wrap">
+                <a href="https://wa.me/541123886544?text=Hola!%20Estoy%20interesada,%20me%20pasas%20m%C3%A1s%20info%20por%20favor?" target="_blank" className="p-0 flex-column text-white text-decoration-none align-content-center d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'> 
                     <FaWhatsapp size='2.5em'/>
                   </div>
