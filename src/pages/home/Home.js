@@ -5,7 +5,7 @@ import React from 'react'
 const Home = () => {
   return (
     <>
-      <div className="portada py-5 h-100 d-flex justify-content-center align-content-center flex-column">
+      <div className="py-5 h-100 d-flex justify-content-center align-content-center flex-column">
         <div className="d-flex justify-content-center align-content-center px-5 w-75 ms-5">
           <p className="titulo ">“El acto <span className='fw-bold fst-italic'>más valiente</span> es pensar por <span className='fw-bold text-decoration-underline'>una misma</span>. Y en voz alta”.</p>
         </div>

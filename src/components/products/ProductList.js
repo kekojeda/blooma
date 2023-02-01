@@ -1,18 +1,16 @@
 import React from "react";
-import { Item } from "./Item";
+import { Product } from "./Product";
 
 function ProductList({ items }) {
   return (
     <>
-      {items.map(({ id, title, price, category, description, image }) => (
-        <Item
+      {items.map(({ id, title, image, services }) => (
+        <Service
           id={id}
           title={title}
-          price={price}
-          category={category}
           image={image}
           key={id}
-          description={description}
+          products={products}
         />
       ))}
     </>
