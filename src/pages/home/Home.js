@@ -12,7 +12,7 @@ const Home = () => {
         <div className='d-flex justify-content-end px-4 coco'>
           <p className="text-white fs-1 ">Coco Chanel</p>
         </div>
-        <div>
+        <div className="d-flex m-5 flex-column">
           <div>
             <h2 className='fw-bold'>Sobre Blooma</h2>
           </div>
@@ -27,12 +27,12 @@ const Home = () => {
           </div>
         </div>
         <div>
-          <div>
+          <div className="d-flex m-5 flex-column">
             <h3>De <span className='fw-bold'>Blooma </span><span className='fw-bold text-decoration-underline'>para vos</span></h3>
             <p>Tips diarios</p>
           </div>
-          <div className="d-flex row flex-wrap">
-            <Card style={{ width: '18rem' }}>
+          <div className="d-flex row flex-wrap m-5 justify-content-evenly">
+            <Card style={{ width: '15rem', background: 'none' }}>
               <Card.Img variant="top" src="holder.js/100px180" />
               <Card.Body>
                 <Card.Title>Protegete del sol</Card.Title>
@@ -42,7 +42,7 @@ const Home = () => {
                 </Card.Text>
               </Card.Body>
             </Card>
-            <Card style={{ width: '18rem' }}>
+            <Card style={{ width: '15rem', background: 'none' }}>
               <Card.Img variant="top" src="holder.js/100px180" />
               <Card.Body>
                 <Card.Title>No fumes</Card.Title>
@@ -51,7 +51,7 @@ const Home = () => {
                 </Card.Text>
               </Card.Body>
             </Card>
-            <Card style={{ width: '18rem' }}>
+            <Card style={{ width: '15rem', background: 'none' }}>
               <Card.Img variant="top" src="holder.js/100px180" />
               <Card.Body>
                 <Card.Title>Trata a tu piel con suavidad</Card.Title>
@@ -60,7 +60,7 @@ const Home = () => {
                 </Card.Text>
               </Card.Body>
             </Card>
-            <Card style={{ width: '18rem' }}>
+            <Card style={{ width: '15rem', background: 'none' }}>
               <Card.Img variant="top" src="holder.js/100px180" />
               <Card.Body>
                 <Card.Title>Lleva una dieta saludable</Card.Title>

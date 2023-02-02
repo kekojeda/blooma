@@ -7,7 +7,7 @@ const servicios = () => {
   return (
 
     <div>
-        <h1>Nuestros <span className='fw-bold fst-italic'>servicios</span>  <span className='fw-bold text-decoration-underline'>para vos</span></h1>
+        <h1 className='titulo'>Nuestros <span className='fw-bold fst-italic'>servicios</span>  <span className='fw-bold text-decoration-underline'>para vos</span></h1>
         
         <ServiceListContainer />
 
