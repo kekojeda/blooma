@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from "react";
-import { ProductList } from "./product/ProductList";
-import products from "../../products.json"
+
+import products from "../../products.json";
 import Accordion from "react-bootstrap/Accordion";
+import { ProductList } from "./ProductList";
 
 function ProductListContainer({ greeting }) {
   const [list, setList] = useState([]);
 
   const [isLoading, setIsLoading] = useState(true);
-
 
   const asyncMock = new Promise((resolve) => {
     setTimeout(() => {

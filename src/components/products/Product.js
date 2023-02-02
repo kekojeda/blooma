@@ -12,14 +12,13 @@ function Product({ id, title, products }) {
         <Accordion.Header>{title}</Accordion.Header>
         <Accordion.Body>
           <Container fluid>
-            {products.map(({ description, id, image, message, title }) => (
+            {products.map(({ description, id, title, products }) => (
               <ProductDetail
                 description={description}
                 id={id}
-                image={image}
-                message={message}
                 title={title}
                 key={id}
+                products={products} 
               />
             ))}
           </Container>

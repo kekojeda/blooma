@@ -2,29 +2,30 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
+import { ProductDetailChild } from "./ProductDetailChild";
 
-function ProductDetail({ description, id, image, message, title }) {
-  const loadImage = `img/services/${image}`;
-  const linkWhats = `https://api.whatsapp.com/send?phone=541123886544&text=${message}${title}`;
+function ProductDetail({ description, id, title, products }) {
+  
 
   return (
     <>
       {
         <Card>
           <Row>
-            <Col sm={4}>
-              <Card.Img variant="top" width={20 + "%"} src={loadImage} />
-            </Col>
-            <Col sm={8}>
-              <Card.Body>
-                <Card.Title>{title}</Card.Title>
-                <Card.Text>{description}</Card.Text>
-                <a href={linkWhats} target="_blank" rel="noopener noreferrer">
-                  <Button variant="primary">Whatsapp</Button>
-                </a>
-              </Card.Body>
-            </Col>
+            <Card.Body>
+              <Card.Title>{title}</Card.Title>
+              <Card.Text>{description}</Card.Text>
+            </Card.Body>
           </Row>
+          {products.map(({ description, id, title }) => (
+              <ProductDetailChild
+                description={description}
+                id={id}
+                title={title}
+                key={id}
+              />
+            ))}
+
         </Card>
       }
     </>

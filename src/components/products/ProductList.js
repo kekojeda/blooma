@@ -4,11 +4,10 @@ import { Product } from "./Product";
 function ProductList({ items }) {
   return (
     <>
-      {items.map(({ id, title, image, services }) => (
-        <Service
+      {items.map(({ id, title, products }) => (
+        <Product
           id={id}
           title={title}
-          image={image}
           key={id}
           products={products}
         />
