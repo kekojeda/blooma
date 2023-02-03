@@ -13,11 +13,7 @@ const Footer = () => {
       <footer className="py-5 px-5 d-flex flex-column justify-content-center align-items-center">
         <div className="flex-column align-content-center">
           <div className="align-items-center justify-content-center">
-<<<<<<< HEAD:src/components/footer/Footer.js
-            <h5 className="contacto "><Link to={'/faqs'} className="nav-link text-white d-flex justify-content-center contacto ">PREGUNTAS FRECUENTES</Link></h5>
-=======
             <h5 className="contacto "><Link to={'/faqs'} className="nav-link d-flex justify-content-center contacto">PREGUNTAS FRECUENTES</Link></h5>
->>>>>>> 369b2d3a96f2a3c6e849d261da8e15a62000b086:src/components/Footer.js
           </div>
           <div className="align-items-center d-flex justify-content-center my-3" >
             <img alt='' src='/img/Rectangulo.svg'/>
@@ -35,39 +31,24 @@ const Footer = () => {
         <div className="align-items-center justify-content-center flex-column ftr">
             <h5 className=' d-flex text-white justify-content-center'>¡ESTAMOS EN CONTACTO!</h5>
             <ul className="justify-content-center d-flex align-content-center me-5 ftr">
-<<<<<<< HEAD:src/components/footer/Footer.js
-              <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href="https://www.instagram.com/blooma.lashnails/" target="_blank" rel="noopener noreferrer" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
-=======
               <li className="m-4 align-items-center d-flex text-white column justify-content-center redes">
                 <a href="https://www.instagram.com/blooma.lashnails/" target="_blank" rel="noreferrer" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
->>>>>>> 369b2d3a96f2a3c6e849d261da8e15a62000b086:src/components/Footer.js
                   <div className='d-flex justify-content-center m-2'>
                     <FiInstagram size='2.2em' />
                   </div>
                 <div >INSTAGRAM</div>
                 </a>
               </li>
-<<<<<<< HEAD:src/components/footer/Footer.js
-              <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href="https://wa.me/541123886544?text=Hola!%20Estoy%20interesada,%20me%20pasas%20m%C3%A1s%20info%20por%20favor?" rel="noopener noreferrer" target="_blank" className="p-0 flex-column text-white text-decoration-none align-content-center d-flex flex-wrap">
-=======
               <li className="m-4 align-items-center d-flex text-white column justify-content-center redes">
                 <a href="https://wa.me/541123886544?text=Hola!%20Estoy%20interesada,%20me%20pasas%20m%C3%A1s%20info%20por%20favor?" rel="noreferrer" target="_blank" className="p-0 flex-column text-white text-decoration-none align-content-center d-flex flex-wrap">
->>>>>>> 369b2d3a96f2a3c6e849d261da8e15a62000b086:src/components/Footer.js
                   <div className='d-flex justify-content-center m-2'> 
                     <FaWhatsapp size='2.5em' />
                   </div>
                 <div >WHATSAPP</div>
                 </a>
               </li>
-<<<<<<< HEAD:src/components/footer/Footer.js
-              <li className="m-4 align-items-center d-flex text-white column justify-content-center">
-                <a href = "mailto:blooma.beautystudio@gmail.com" target="_blank" rel="noopener noreferrer" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
-=======
               <li className="m-4 align-items-center d-flex text-white column justify-content-center redes">
                 <a href = "mailto:blooma.beautystudio@gmail.com" target="_blank" rel="noreferrer" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
->>>>>>> 369b2d3a96f2a3c6e849d261da8e15a62000b086:src/components/Footer.js
                   <div className='d-flex justify-content-center m-2'>
                     <TfiEmail size='2.2em' />
                   </div>
