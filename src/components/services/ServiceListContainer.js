@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ServiceList } from "./ServiceList";
-import services from "../services.json";
+import services from "../../services.json";
 import Accordion from "react-bootstrap/Accordion";
 import "./style.css";
 

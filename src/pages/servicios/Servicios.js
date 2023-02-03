@@ -1,5 +1,5 @@
 import React from 'react'
-import { ServiceListContainer } from '../../components/ServiceListContainer'
+import { ServiceListContainer } from '../../components/services/ServiceListContainer'
 import "./Servicios.sass"
 
 
