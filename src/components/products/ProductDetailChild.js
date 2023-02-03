@@ -4,7 +4,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 function ProductDetailChild({ description, id, image, message, title }) {
-  const loadImage = `img/services/${image}`;
+  const loadImage = `blooma/assets/images/${image}`;
   const linkWhats = `https://api.whatsapp.com/send?phone=541123886544&text=${message}${title}`;
 
   return (
@@ -13,7 +13,9 @@ function ProductDetailChild({ description, id, image, message, title }) {
         <Card>
           <Row>
             <Col sm={4}>
+            
               <Card.Img variant="top" width={20 + "%"} src={loadImage} />
+              {console.log(image)}
             </Col>
             <Col sm={8}>
               <Card.Body>

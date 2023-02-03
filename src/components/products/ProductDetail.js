@@ -17,12 +17,13 @@ function ProductDetail({ description, id, title, products }) {
               <Card.Text>{description}</Card.Text>
             </Card.Body>
           </Row>
-          {products.map(({ description, id, title }) => (
+          {products.map(({ description, id, title, image }) => (
               <ProductDetailChild
                 description={description}
                 id={id}
                 title={title}
                 key={id}
+                image={image}
               />
             ))}
 
