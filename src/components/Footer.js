@@ -21,9 +21,9 @@ const Footer = () => {
           <div className="align-items-center d-flex justify-content-center flex-column">
             <h5 className="nav-link  d-flex text-white justify-content-center">MEDIOS DE PAGO</h5>
             <ul className="nav align-items-center justify-content-between">
-              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='../public/img/tips/tarjeta.png'/></li>
-              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='img/tips/MePa.png'/></li>                
-              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='img/efectivo.svg'/></li>                
+              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='blooma/assets/images/pay_method/tarjeta.svg'/></li>
+              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='blooma/assets/images/pay_method/MePa.svg'/></li>                
+              <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='blooma/assets/images/pay_method/efectivo.svg'/></li>                
             </ul>
           </div>
         </div>
