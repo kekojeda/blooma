@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import products from "../../products.json";
 import Accordion from "react-bootstrap/Accordion";
 import { ProductList } from "./ProductList";
+import "./style.css"
 
 function ProductListContainer({ greeting }) {
   const [list, setList] = useState([]);
@@ -36,9 +37,11 @@ function ProductListContainer({ greeting }) {
         </div>
       ) : (
         <>
-          <Accordion defaultActiveKey="0">
-            <ProductList items={list} />
-          </Accordion>
+          <div className="container">
+            <Accordion defaultActiveKey="0">
+              <ProductList items={list} />
+            </Accordion>
+          </div>
         </>
       )}
     </>

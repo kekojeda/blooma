@@ -2,12 +2,12 @@ import React, { useEffect, useState } from "react";
 import { ServiceList } from "./ServiceList";
 import services from "../services.json";
 import Accordion from "react-bootstrap/Accordion";
+import "./style.css";
 
 function ServiceListContainer({ greeting }) {
   const [list, setList] = useState([]);
 
   const [isLoading, setIsLoading] = useState(true);
-
 
   const asyncMock = new Promise((resolve) => {
     setTimeout(() => {
@@ -36,9 +36,11 @@ function ServiceListContainer({ greeting }) {
         </div>
       ) : (
         <>
-          <Accordion defaultActiveKey="0">
-            <ServiceList items={list} />
-          </Accordion>
+          <div className="container">
+            <Accordion defaultActiveKey="0">
+              <ServiceList items={list} />
+            </Accordion>
+          </div>
         </>
       )}
     </>
