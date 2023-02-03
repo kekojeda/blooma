@@ -33,7 +33,7 @@ const Home = () => {
           </div>
           <div className="d-flex row flex-wrap m-5 justify-content-evenly">
             <Card style={{ width: '15rem', background: 'none' }}>
-              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Img variant="top" src="blooma/assets/images/tips/Tip - protegete del sol.jpg" />
               <Card.Body>
                 <Card.Title>Protegete del sol</Card.Title>
                 <Card.Text>
@@ -43,7 +43,7 @@ const Home = () => {
               </Card.Body>
             </Card>
             <Card style={{ width: '15rem', background: 'none' }}>
-              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Img variant="top" src="blooma/assets/images/tips/Tip - No fumes.jpg" />
               <Card.Body>
                 <Card.Title>No fumes</Card.Title>
                 <Card.Text>
@@ -52,7 +52,7 @@ const Home = () => {
               </Card.Body>
             </Card>
             <Card style={{ width: '15rem', background: 'none' }}>
-              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Img variant="top" src="blooma/assets/images/tips/Tip - trata a tu piel  con suavidad.jpg" />
               <Card.Body>
                 <Card.Title>Trata a tu piel con suavidad</Card.Title>
                 <Card.Text>
@@ -61,7 +61,7 @@ const Home = () => {
               </Card.Body>
             </Card>
             <Card style={{ width: '15rem', background: 'none' }}>
-              <Card.Img variant="top" src="holder.js/100px180" />
+              <Card.Img variant="top" src="blooma/assets/images/tips/Tip - Dieta saludable.jpg" />
               <Card.Body>
                 <Card.Title>Lleva una dieta saludable</Card.Title>
                 <Card.Text>
