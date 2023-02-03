@@ -18,6 +18,11 @@
   margin: 0 4em;
 }
 
+.container {
+  width: 85%;
+  
+}
+
 @media (max-width: 768px) {
   .titulo {
     font-size: 3em;
