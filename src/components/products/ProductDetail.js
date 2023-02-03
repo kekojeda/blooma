@@ -11,7 +11,7 @@ function ProductDetail({ description, id, title, products }) {
     <>
       {
         <Card>
-          <Row>
+          <Row >
             <Card.Body>
               <Card.Title>{title}</Card.Title>
               <Card.Text>{description}</Card.Text>
@@ -26,6 +26,7 @@ function ProductDetail({ description, id, title, products }) {
                 image={image}
               />
             ))}
+            
 
         </Card>
       }

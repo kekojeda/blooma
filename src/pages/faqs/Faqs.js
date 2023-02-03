@@ -9,6 +9,7 @@ const Faqs = () => {
         <h2 className="titulo ">¡Te <span className='fw-bold text-decoration-underline'>respondemos!</span></h2> 
       </div>
       <div className="bg-light px-5 py-3">
+        <div className='container'>
         <div className="m-5 d-flex flex-column">
           <h3 className='fw-bold mb-4'>¿Qué medios de pago aceptan?</h3>
           <p>Aceptamos efectivo, transferencia bancaria, mercado pago,tarjetas de débito y de crédito.</p>
@@ -38,6 +39,7 @@ const Faqs = () => {
         <div className="m-5 d-flex flex-column">
           <h3 className='fw-bold mb-4'>¿Cualquier persona puede realizar tratamientos corporales?</h3>
           <p>Sí. En la primera sesión se realiza un diagnóstico con la concepción de una ficha técnica y médica en donde se evalúa qué tipo de tratamiento se ajusta a cada persona. Se plantean objetivos en base a los resultados que el paciente desee obtener, a corto, a mediano y a largo plazo.</p>
+        </div>
         </div>
       </div>
     </div>

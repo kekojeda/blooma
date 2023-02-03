@@ -11,7 +11,7 @@ function ServiceDetail({ description, id, image, message, title }) {
   return (
     <>
       {
-        <Card>
+        <Card className="mb-4">
           <Row>
             <Col sm={4}>
               <Card.Img variant="top" width={20 + "%"} src={loadImage} />

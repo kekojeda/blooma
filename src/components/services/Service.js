@@ -8,7 +8,7 @@ import { ServiceDetail } from "./ServiceDetail";
 function Service({ id, title, services }) {
   return (
     <>
-      <Accordion.Item eventKey={id}>
+      <Accordion.Item eventKey={id} className="mb-2">
         <Accordion.Header>{title}</Accordion.Header>
         <Accordion.Body>
           <Container fluid>

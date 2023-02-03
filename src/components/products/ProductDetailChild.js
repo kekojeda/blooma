@@ -14,10 +14,10 @@ function ProductDetailChild({ description, id, image, message, title }) {
     <>
       {
         
-        <Card>
+        <Card className="mb-4">
           <Row>
             <Col sm={4}>
-              <Card.Img className="img-thumbnail" variant="top" width={20 + "%"} src={loadImage} />
+              <Card.Img className="img-thumbnail" width={20 + "%"} src={loadImage} />
             </Col>
             <Col sm={8}>
               <Card.Body>
