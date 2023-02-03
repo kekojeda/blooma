@@ -5,4 +5,9 @@
 
 .bg {
   background-color: #011625;
+}
+
+.contacto:hover {
+  color: orange;
+  font-weight: bold;
 }/*# sourceMappingURL=footer.css.map */
