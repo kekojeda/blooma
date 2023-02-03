@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blooma/static/css/main.499797a8.css",
-    "main.js": "/blooma/static/js/main.2503a1eb.js",
+    "main.css": "/blooma/static/css/main.e312f093.css",
+    "main.js": "/blooma/static/js/main.5511698d.js",
     "index.html": "/blooma/index.html",
-    "main.499797a8.css.map": "/blooma/static/css/main.499797a8.css.map",
-    "main.2503a1eb.js.map": "/blooma/static/js/main.2503a1eb.js.map"
+    "main.e312f093.css.map": "/blooma/static/css/main.e312f093.css.map",
+    "main.5511698d.js.map": "/blooma/static/js/main.5511698d.js.map"
   },
   "entrypoints": [
-    "static/css/main.499797a8.css",
-    "static/js/main.2503a1eb.js"
+    "static/css/main.e312f093.css",
+    "static/js/main.5511698d.js"
   ]
 }
