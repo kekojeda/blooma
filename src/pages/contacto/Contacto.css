@@ -1,4 +1,14 @@
-.contacto:hover {
-  color: orange;
-  font-weight: bold;
+@media (min-width: 1279px) {
+  .contacto:hover {
+    color: orange;
+    font-weight: bold;
+  }
+}
+@media (max-width: 768px) {
+  .titulo {
+    font-size: 2.5em;
+    display: flex;
+    flex-wrap: wrap;
+    width: 10em;
+  }
 }/*# sourceMappingURL=Contacto.css.map */

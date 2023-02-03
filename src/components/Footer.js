@@ -10,27 +10,27 @@ const Footer = () => {
     
     <>
     <div className="bg">
-      <footer className="py-5 px-5">
+      <footer className="py-5 px-5 d-flex flex-column justify-content-center align-items-center">
         <div className="flex-column align-content-center">
-          <div className="align-items-center">
-            <h5 className="contacto"><Link to={'/faqs'} className="nav-link text-white d-flex justify-content-center contacto">PREGUNTAS FRECUENTES</Link></h5>
+          <div className="align-items-center justify-content-center">
+            <h5 className="contacto "><Link to={'/faqs'} className="nav-link text-white d-flex justify-content-center contacto">PREGUNTAS FRECUENTES</Link></h5>
           </div>
           <div className="align-items-center d-flex justify-content-center my-3" >
             <img alt='' src='/img/Rectangulo.svg'/>
           </div>
-          <div className="align-items-center d-flex justify-content-center flex-column">
+          <div className="align-items-center d-flex justify-content-center flex-column ftr">
             <h5 className="nav-link  d-flex text-white justify-content-center">MEDIOS DE PAGO</h5>
-            <ul className="nav align-items-center justify-content-between">
+            <ul className="nav align-items-center justify-content-between ftr">
               <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='blooma/assets/images/pay_method/tarjeta.svg'/></li>
               <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='blooma/assets/images/pay_method/MePa.svg'/></li>                
               <li className="nav-item mx-3 my-2 d-flex justify-content-center"><img alt='' className='mediosDePago' src='blooma/assets/images/pay_method/efectivo.svg'/></li>                
             </ul>
           </div>
         </div>
-        <div className="d-flex justify-content-center pt-4 mt-4 border-top flex-column">
-        <div className="align-items-center justify-content-center flex-column">
+        <div className="d-flex justify-content-center pt-4 mt-4 border-top flex-column ftr">
+        <div className="align-items-center justify-content-center flex-column ftr">
             <h5 className=' d-flex text-white justify-content-center'>¡ESTAMOS EN CONTACTO!</h5>
-            <ul className="justify-content-center d-flex align-content-center me-5">
+            <ul className="justify-content-center d-flex align-content-center me-5 ftr">
               <li className="m-4 align-items-center d-flex text-white column justify-content-center">
                 <a href="https://www.instagram.com/blooma.lashnails/" target="_blank" className="p-0 flex-column text-white text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>

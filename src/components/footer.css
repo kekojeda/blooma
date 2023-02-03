@@ -1,13 +1,26 @@
-.mediosDePago {
-  height: 2.5em;
-  width: 2.5em;
+@media (min-width: 1279px) {
+  .mediosDePago {
+    height: 2.5em;
+    width: 2.5em;
+  }
+  .bg {
+    background-color: #011625;
+  }
+  .contacto:hover {
+    color: orange;
+    font-weight: bold;
+  }
 }
-
-.bg {
-  background-color: #011625;
-}
-
-.contacto:hover {
-  color: orange;
-  font-weight: bold;
+@media (max-width: 768px) {
+  .titulo {
+    font-size: 3em;
+    display: flex;
+    flex-wrap: wrap;
+    width: 5em;
+  }
+  .ftr {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }/*# sourceMappingURL=footer.css.map */

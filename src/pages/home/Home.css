@@ -16,4 +16,13 @@
 
 .coco {
   margin: 0 4em;
+}
+
+@media (max-width: 768px) {
+  .titulo {
+    font-size: 3em;
+    display: flex;
+    flex-wrap: wrap;
+    width: 5em;
+  }
 }/*# sourceMappingURL=Home.css.map */
