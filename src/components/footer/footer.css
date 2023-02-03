@@ -1,24 +1,24 @@
-.contacto:hover {
+.ftr-contacto:hover {
   color: orange;
   font-weight: bold;
 }
 
-.contacto {
+.ftr-contacto {
   color: white;
 }
 
 .redes:hover {
-  background-color: rgba(252, 201, 171, 0.5634628852);
-  padding: 5em;
+  background-color: rgba(243, 97, 25, 0.731530112);
+}
+
+.bg {
+  background-color: #011625;
 }
 
 @media (min-width: 1279px) {
   .mediosDePago {
     height: 2.5em;
     width: 2.5em;
-  }
-  .bg {
-    background-color: #011625;
   }
 }
 @media (max-width: 768px) {

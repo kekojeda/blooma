@@ -1,9 +1,12 @@
-@media (min-width: 1279px) {
-  .contacto:hover {
-    color: orange;
-    font-weight: bold;
-  }
+.contacto {
+  color: black;
 }
+
+.contacto:hover {
+  background-color: rgba(243, 97, 25, 0.731530112);
+  font-weight: bold;
+}
+
 @media (max-width: 768px) {
   .titulo {
     font-size: 2.5em;

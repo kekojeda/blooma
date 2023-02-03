@@ -15,28 +15,28 @@ const Contacto = () => {
         <div className="mx-5 d-flex flex-column">
           <div className="d-flex justify-content-center">
             <ul className="justify-content-around d-flex align-content-center m-0 p-0 flex-wrap">
-              <li className="m-4 align-items-center d-flex  column justify-content-center px-5">
+              <li className="m-4 align-items-center d-flex  column justify-content-center px-5 contacto">
                 <a href="https://www.instagram.com/blooma.lashnails/" target="_blank" rel="noreferrer" className=" p-0 flex-column text-black text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>
-                    <FiInstagram size='4em' className="contacto"/>
+                    <FiInstagram size='4em' />
                   </div>
-                <div className="contacto">INSTAGRAM</div>
+                <div>INSTAGRAM</div>
                 </a>
               </li>
-              <li className="m-4 align-items-center d-flex column justify-content-center px-5">
+              <li className="m-4 align-items-center d-flex column justify-content-center px-5 contacto">
                 <a href="https://wa.me/541123886544?text=Hola!%20Estoy%20interesada,%20me%20pasas%20m%C3%A1s%20info%20por%20favor?" target="_blank"  rel="noreferrer" className=" p-0 flex-column text-black text-decoration-none align-content-center d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'> 
-                    <FaWhatsapp size='4em' className="contacto"/>
+                    <FaWhatsapp size='4em'/>
                   </div>
-                <div  className="contacto">WHATSAPP</div>
+                <div >WHATSAPP</div>
                 </a>
               </li>
-              <li className="m-4 align-items-center d-flex  column justify-content-center px-5">
+              <li className="m-4 align-items-center d-flex  column justify-content-center px-5 contacto">
                 <a href = "mailto:blooma.beautystudio@gmail.com" target="_blank"  rel="noreferrer" className="  p-0 flex-column text-black text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>
-                      <BsFacebook size='4em' className="contacto"/>      
+                      <BsFacebook size='3.5em'/>      
                   </div>
-                  <div className="contacto">FACEBOOK</div>
+                  <div>FACEBOOK</div>
                 </a>
               </li>
             </ul>
