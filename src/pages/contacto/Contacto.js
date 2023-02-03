@@ -32,7 +32,7 @@ const Contacto = () => {
                 </a>
               </li>
               <li className="m-4 align-items-center d-flex  column justify-content-center px-5 contacto">
-                <a href = "mailto:blooma.beautystudio@gmail.com" target="_blank"  rel="noreferrer" className="  p-0 flex-column text-black text-decoration-none d-flex flex-wrap">
+                <a href = "https://www.facebook.com/blooma.lashnails" target="_blank"  rel="noreferrer" className="  p-0 flex-column text-black text-decoration-none d-flex flex-wrap">
                   <div className='d-flex justify-content-center m-2'>
                       <BsFacebook size='3.5em'/>      
                   </div>
