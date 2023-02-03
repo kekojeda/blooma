@@ -6,7 +6,10 @@ import { ProductListContainer } from "../../components/products/ProductListConta
 const Productos = () => {
   return (
     <div>
-      <h1 className="titulo">Nuestros <span className='fw-bold fst-italic'>productos</span> <span className='fw-bold text-decoration-underline'>para vos</span></h1>
+      <div className="d-flex justify-content-center align-content-center p-5 ms-5 flex-column">
+        <h1 className="titulo">Nuestros <span className='fw-bold fst-italic'>productos</span></h1>
+        <span className='fw-bold text-decoration-underline titulo'>para vos</span>
+      </div>
 
       <ProductListContainer />
 

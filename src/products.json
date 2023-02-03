@@ -5,33 +5,33 @@
     "products": [
       {
         "id": 1,
-        "title": "básica",
+        "title": "Básica",
         "description": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
         "products": [
           {
             "id": 1,
-            "title": "limpiador facial",
+            "title": "Limpiador facial",
             "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
             "image": "Higiene facial 1.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
-            "title": "tónico facial",
+            "title": "Tónico facial",
             "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento.",
             "image": "Tonico facial.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 3,
-            "title": "crema hidratante",
+            "title": "Crema hidratante",
             "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
             "image": "Rutbásic-Crema Hidratante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 4,
-            "title": "exfoliante",
+            "title": "Exfoliante",
             "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
             "image": "Rutbasic.Exfoliante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
@@ -40,40 +40,40 @@
       },
       {
         "id": 2,
-        "title": "completa",
+        "title": "Completa",
         "description": "Se conforma por un kit de productos completo para el cuidado skin care día y noche adecuados al biotipo de piel.",
         "products": [
           {
             "id": 1,
-            "title": "limpiador facial",
+            "title": "Cimpiador facial",
             "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
             "image": "Higiene facial 1.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
-            "title": "tónico o bruma facial",
+            "title": "Tónico o bruma facial",
             "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento, manteniendo la hidratación de la piel.",
             "image": "Tonico o Bruma facial.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 3,
-            "title": "sérum",
+            "title": "Sérum",
             "description": "Suaviza y nutre la superficie de la piel, dándole una textura notablemente más uniforme. El sérum facial también la calma para darle un brillo rejuvenecedor.",
             "image": "Serum.png",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 4,
-            "title": "crema hidratante",
+            "title": "Crema hidratante",
             "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
             "image": "Rutcomplet-Crema Hidratante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 5,
-            "title": "exfoliante",
+            "title": "Exfoliante",
             "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
             "image": "RutcompletaExfoliante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
@@ -88,12 +88,12 @@
     "products": [
       {
         "id": 1,
-        "title": "cejas",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at enim",
+        "title": "Cejas",
+        "description": "",
         "products": [
           {
             "id": 1,
-            "title": "liposomas en spray (promoter) exel",
+            "title": "Liposomas en spray (promoter) exel",
             "description": "Estimula el crecimiento natural de pestañas y cejas. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas.",
             "image": "Exel Promoter Liposomas Crecimiento Pestañas Y Cejas Spray.jpg",
             "message": "Mensaje que se envia por WhatsApp"
@@ -102,8 +102,8 @@
       },
       {
         "id": 2,
-        "title": "pestañas",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque turpis id enim venenatis auctor. Phasellus euismod at enim",
+        "title": "Pestañas",
+        "description": "",
         "products": [
           {
             "id": 1,
@@ -121,7 +121,7 @@
           },
           {
             "id": 3,
-            "title": "liposomas en spray (promoter) exel",
+            "title": "Liposomas en spray (promoter) Exel",
             "description": "Estimula el crecimiento natural de pestañas y cejas. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas.",
             "image": "Exel Promoter Liposomas Crecimiento Pestañas Y Cejas Spray.jpg",
             "message": "Mensaje que se envia por WhatsApp"
@@ -135,15 +135,15 @@
         "products": [
           {
             "id": 1,
-            "title": "Productos idraet",
-            "description": "Productos idraet",
+            "title": "Productos Idraet",
+            "description": "Productos Idraet",
             "image": "Higiene facial 2.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
-            "title": "productos laca",
-            "description": "productos laca",
+            "title": "Productos Laca",
+            "description": "productos Laca",
             "image": "Higiene facial 3.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           }

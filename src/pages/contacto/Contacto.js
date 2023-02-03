@@ -7,9 +7,10 @@ import React from 'react'
 const Contacto = () => {
   return (
     <div>
-      <div className="d-flex justify-content-center align-content-center p-5 ms-5">
-        <p className="titulo ">Estemos en <span className='fw-bold text-decoration-underline'>contacto</span>.</p>
-      </div>
+      <div className="d-flex justify-content-center align-content-center p-5 ms-5 flex-column">
+        <h1 className="titulo">Estemos en</h1>
+        <span className='fw-bold text-decoration-underline titulo'>contacto!</span>
+      </div>     
       <div className="bg-light ">
         <div className="mx-5 d-flex flex-column">
           <ul className="justify-content-center d-flex align-content-center">
@@ -38,14 +39,14 @@ const Contacto = () => {
               </a>
             </li>
           </ul>
-          <div className="border-dark border-top d-flex justify-content-center align-content-center flex-column">
-            <h2 className="justify-content-start d-flex align-content-center">¡Acá estamos!</h2>
+          <div className="border-dark border-top d-flex justify-content-center align-content-center flex-column py-5">
+            <h2 className="justify-content-start d-flex align-content-center fw-bold">¡Acá estamos!</h2>
             <div className="justify-content-start d-flex align-content-center flex-column">
-              <p className="justify-content-start d-flex align-content-center">Nos podes encontrar en</p>
+              <p className="justify-content-start d-flex align-content-center mb-0">Nos podes encontrar en</p>
               <p className="justify-content-start d-flex align-content-center">Islandia 26 entre Avenida General Hornos y Darwin.</p>
             </div>
             <div className="justify-content-start d-flex align-content-center flex-column">
-              <p className="justify-content-start d-flex align-content-center">Martes a viernes  de 14 a 20 hs.</p>
+              <p className="justify-content-start d-flex align-content-center mb-0">Martes a viernes  de 14 a 20 hs.</p>
               <p className="justify-content-start d-flex align-content-center">Sábados de 10 a 16 hs.</p>
             </div>
           </div>
