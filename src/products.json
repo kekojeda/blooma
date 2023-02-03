@@ -45,7 +45,7 @@
         "products": [
           {
             "id": 1,
-            "title": "Cimpiador facial",
+            "title": "Limpiador facial",
             "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
             "image": "Higiene facial 1.jpg",
             "message": "Mensaje que se envia por WhatsApp"
