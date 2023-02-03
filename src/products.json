@@ -12,28 +12,28 @@
             "id": 1,
             "title": "limpiador facial",
             "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
-            "image": "test.jpg",
+            "image": "Higiene facial 1.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
             "title": "tónico facial",
             "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento.",
-            "image": "test.jpg",
+            "image": "Tonico facial.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 3,
             "title": "crema hidratante",
             "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
-            "image": "test.jpg",
+            "image": "Rutbásic-Crema Hidratante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 4,
             "title": "exfoliante",
             "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
-            "image": "test.jpg",
+            "image": "Rutbasic.Exfoliante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           }
         ]
@@ -47,35 +47,35 @@
             "id": 1,
             "title": "limpiador facial",
             "description": "Los limpiadores son productos para eliminar la acumulación normal de suciedad, maquillaje, protector solar, restos de polución y células muertas.",
-            "image": "test.jpg",
+            "image": "Higiene facial 1.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
             "title": "tónico o bruma facial",
             "description": "Además de refrescar, hidratar y restablecer el pH de la piel, el tónico facial cierra los poros y ayuda a equilibrar y preparar la piel para su posterior tratamiento, manteniendo la hidratación de la piel.",
-            "image": "test.jpg",
+            "image": "Tonico o Bruma facial.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 3,
             "title": "sérum",
             "description": "Suaviza y nutre la superficie de la piel, dándole una textura notablemente más uniforme. El sérum facial también la calma para darle un brillo rejuvenecedor.",
-            "image": "test.jpg",
+            "image": "Serum.png",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 4,
             "title": "crema hidratante",
             "description": "Su función principal es proporcionar agua a las células de la piel, nutriéndola en profundidad y protegiéndola de los agentes externos como los cambios de temperatura, el viento o la contaminación.",
-            "image": "test.jpg",
+            "image": "Rutcomplet-Crema Hidratante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 5,
             "title": "exfoliante",
             "description": "El exfoliante facial es un producto cosmético que sirve para limpiar y eliminar las impurezas del rostro en profundidad.",
-            "image": "test.jpg",
+            "image": "RutcompletaExfoliante.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           }
         ]
@@ -95,7 +95,7 @@
             "id": 1,
             "title": "liposomas en spray (promoter) exel",
             "description": "Estimula el crecimiento natural de pestañas y cejas. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas.",
-            "image": "test.jpg",
+            "image": "Exel Promoter Liposomas Crecimiento Pestañas Y Cejas Spray.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           }
         ]
@@ -109,21 +109,21 @@
             "id": 1,
             "title": "FORTIFICADOR DE PESTAÑAS (BIOTINA) LACA",
             "description": "El gel fortalecedor con biotina posee activos naturales que estimulan la fase de crecimiento de pestañas y cejas. Arquea y/o disciplina los pelos de pestañas y cejas otorgándoles una hermosa apariencia y luminosidad.",
-            "image": "test.jpg",
+            "image": "Laca Gel Fortalecedor Biotina Y Fortificador Pestañas.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
             "title": "LIMPIEZA PARA PESTAÑAS (ESPUMA) MICELAR EXEL",
             "description": "Suave espuma, ideal para la higiene del área de contorno de ojos, pestañas, extensiones de pestañas y cejas. Puede ser utilizada además como desmaquillante. Otorga suavidad y agradable efecto sensorial.",
-            "image": "test.jpg",
+            "image": "Promoter Exel Limpieza Pestañas Espuma Micelar Ojos X50ml.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 3,
             "title": "liposomas en spray (promoter) exel",
             "description": "Estimula el crecimiento natural de pestañas y cejas. Posee acción humectante y lubricante de los párpados y el área de contorno de ojos. Refuerza y ayuda a disminuir la caída, logrando pestañas y cejas más largas y tupidas.",
-            "image": "test.jpg",
+            "image": "Exel Promoter Liposomas Crecimiento Pestañas Y Cejas Spray.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           }
         ]
@@ -137,14 +137,14 @@
             "id": 1,
             "title": "Productos idraet",
             "description": "Productos idraet",
-            "image": "test.jpg",
+            "image": "Higiene facial 2.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           },
           {
             "id": 2,
             "title": "productos laca",
             "description": "productos laca",
-            "image": "test.jpg",
+            "image": "Higiene facial 3.jpg",
             "message": "Mensaje que se envia por WhatsApp"
           }
         ]

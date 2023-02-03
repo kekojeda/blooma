@@ -4,7 +4,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 
 function ServiceDetail({ description, id, image, message, title }) {
-  const loadImage = `blooma/img/services/${image}`;
+  const loadImage = `blooma/assets/images/services/${image}`;
   const linkWhats = `https://api.whatsapp.com/send?phone=541123886544&text=${message}${title}`;
 
   return (
