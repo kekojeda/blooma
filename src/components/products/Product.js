@@ -1,6 +1,6 @@
 import React from "react";
 import Accordion from "react-bootstrap/Accordion";
-
+import "./product.sass"
 import Container from "react-bootstrap/Container";
 
 import { ProductDetail } from "./ProductDetail";
